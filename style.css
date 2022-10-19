@@ -1,0 +1,784 @@
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 1224px;
+}
+
+/* header-section */
+.nav-section {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  opacity: 0.9;
+}
+
+.manu {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+  padding-top: 15px;
+
+}
+
+.get-in {
+  padding: 16px 24px;
+  background: #5693BF;
+  border-radius: 77px;
+  color: #224259;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  text-decoration: none;
+  color: #ffff;
+
+}
+
+.get-in:hover {
+  color: #FFFFFF;
+}
+
+/* banner */
+#banner {
+  padding: 72px 0 160px 0;
+}
+
+.brand-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 742px;
+}
+
+.solve h1 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 110%;
+  color: #224259;
+}
+
+.arrow {
+  background: #F17999;
+  border-radius: 24px;
+  width: 94px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.problems h1 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 110%;
+  color: #224259;
+}
+
+.work {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.your-brand h1 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #224259;
+}
+
+.work-form {
+  width: 300px;
+  height: 80px;
+  border: 3px solid #F17999;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.work-form a {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #F17999;
+  text-decoration: none;
+
+}
+
+.counter {
+  padding-top: 54px;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-box p {
+  max-width: 528px;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  padding-top: 10px;
+
+}
+
+.box-and-text {
+  padding-left: 40px;
+}
+
+.img-bg {
+  padding-top: 120px;
+}
+
+.text-button {
+  padding-top: 104px;
+}
+
+.text-button p {
+  max-width: 496px;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: #224259;
+  padding-bottom: 56px;
+}
+
+.get-started {
+  box-shadow: 10px 10px #000;
+  width: 211px;
+  height: 72px;
+  padding: 20px 32px;
+  background: #FFFFFF;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #224259;
+}
+
+.get-started a {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+
+}
+
+.get-started:hover {
+  color: #224259;
+}
+
+/* our-services-area */
+#our-services {
+  padding-bottom: 160px;
+}
+
+.services {
+  background-image: url(img/Bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 885px;
+
+}
+
+.services-text h6 {
+  max-width: 99px;
+  margin: 0 auto;
+  color: #FFFFFF;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  padding-top: 72px;
+}
+
+.services-text img {
+  max-width: 99px;
+  margin: 0 auto;
+
+}
+
+.services-text {
+  max-width: 808px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.services-text h3 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  margin: 0 auto;
+  color: #FFFFFF;
+  padding-top: 33px;
+}
+
+.services-text p {
+  margin: 0 auto;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  padding-top: 24px;
+}
+
+.services-box {
+  padding-top: 88px;
+}
+
+.box-1 {
+  box-sizing: border-box;
+  background: #FFFFFF;
+  border-radius: 24px;
+  color: #224259;
+  padding: 46px;
+  box-shadow: 10px 10px;
+  position: relative;
+
+}
+
+.icon-img {
+  position: absolute;
+  top: -40px;
+
+}
+
+.box-1 h6 {
+  max-width: 240px;
+  margin: 0 auto;
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.box-1 p {
+  max-width: 245px;
+  margin: 0 auto;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  padding-top: 8px;
+}
+
+.button-box {
+  width: 261px;
+  height: 72px;
+  margin: 0 auto;
+  padding: 20px 32px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px #000;
+  position: absolute;
+  right: 704px;
+  margin-top: 70px;
+  text-decoration: none;
+  color: #224259;
+}
+
+.button-box a {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+
+}
+
+.button-box:hover {
+  color: #224259;
+}
+
+/* latest-project */
+#latest {
+  padding-bottom: 160px;
+}
+
+.latest-text {
+  max-width: 808px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.head-line h6 {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  color: #F17999;
+}
+
+.head-line h3 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #224259;
+}
+
+.latest-text p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+}
+
+.Project-text {
+  padding-top: 64px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.number p {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #224259;
+}
+
+.text-latest h3 {
+  max-width: 520px;
+  margin: 0 auto;
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #224259;
+}
+
+.text-latest h3:hover {
+  background-image: url(img/Maskgroup.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right top;
+  color: #5693BF;
+  text-decoration: underline;
+
+}
+
+.paragaraph-text p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+
+}
+
+/*  get-started */
+.get-start {
+  padding: 160px;
+}
+
+.get-bg {
+  background-image: url(img/pink-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 471px;
+}
+
+.get-text h4 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #FFFFFF;
+  padding-top: 80px;
+  padding-left: 80px;
+}
+
+.get-email {
+  max-width: 500px;
+  height: 72px;
+  margin: 0 auto;
+  border: 1px solid #FFFFFF;
+  border-radius: 12px;
+  margin-left: 80px;
+  margin-top: 60px;
+
+}
+
+.check-box {
+  padding-top: 40px;
+  margin-left: 80px;
+}
+
+.get-button {
+  width: 200px;
+  height: 72px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  padding: 20px 32px;
+  margin-left: 40px;
+  box-shadow: 10px 10px;
+}
+
+.check-box input {
+  margin-top: 28px;
+}
+
+.get-img {
+  padding: 0;
+  margin: 0;
+}
+
+/* give-section */
+.give {
+  padding-bottom: 160px;
+}
+
+
+.fun-fact p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+  padding-top: 32px;
+
+}
+
+.counter-text {
+  padding-top: 40px;
+
+}
+
+.counter-number h3 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #5693BF;
+}
+
+.counter-number p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+}
+
+/* box-star */
+.star {
+  padding-bottom: 160px;
+}
+
+.star-items {
+  max-width: 278px;
+  margin: 0 auto;
+  border: 3px solid #224259;
+  border-radius: 24px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px;
+}
+
+.star-items h4 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #224259;
+  padding: 50px 0 5px 40px;
+}
+
+.star-items img {
+  padding-left: 40px;
+  padding-bottom: 27px;
+}
+
+.star-box {
+  margin: 36px 0px;
+}
+
+/* customer-section */
+.customer {
+  padding-bottom: 160px;
+}
+
+.customer-text p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: #224259;
+}
+
+.customer-text h5 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #224259;
+}
+
+.customer-text h5 span {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+
+}
+
+.arrow-button button {
+  width: 72px;
+  height: 72px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px;
+  margin-left: 24px;
+  position: relative;
+  left: 518px;
+  bottom: 78px;
+}
+
+
+.coustomer-img img {
+  height: 551px;
+}
+
+/* why-choose-section */
+.why-us {
+  padding-bottom: 160px;
+}
+
+.why-wrapper {
+  padding: 160px 0;
+  background-color: #E5EEF5;
+  border-radius: 48px 0px 0px 48px;
+}
+
+.why-box {
+  max-width: 220px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  border: 2px solid;
+  border-radius: 23px;
+  margin-top: 283px;
+  box-shadow: 10px 10px #BECCD6;
+  padding: 24px;
+}
+
+.box-us h4 {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  padding-top: 24px;
+  color: #224259;
+}
+
+.box-us p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 8px;
+  color: #224259;
+  opacity: .7;
+}
+
+.find-box {
+  margin: 0;
+  margin-top: 160px;
+  margin-bottom: 32px;
+}
+
+.support-box {
+  margin: 0;
+}
+
+.text-title h6 {
+  padding-top: 160px;
+}
+
+.reach-out h3 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #224259;
+  padding: 32px 0;
+}
+
+.reach-out p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #224259;
+}
+
+.why-btn {
+  width: 164px;
+  height: 72px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  padding: 20px 32px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px;
+  text-decoration: none;
+}
+
+.why-btn a {
+  text-decoration: none;
+  color: #224259;
+}
+
+/* blog-section */
+.blog {
+  padding-bottom: 160px;
+}
+
+.latest-blog p {
+  max-width: 600px;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.blog-button {
+  width: 228px;
+  height: 72px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  color: #224259;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 10px;
+  position: relative;
+  bottom: -85px;
+}
+
+.blog-button:hover {
+  color: #224259;
+}
+
+.blog-button a {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.blog-slider {
+  padding-top: 64px;
+}
+
+.swiper-slide h4 {
+  font-family: 'Varent Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #224259;
+}
+
+
+
+
+.slider-1 img:hover {
+  opacity: .6;
+}
+
+.swiper-slide:hover {
+  background-image: url(img/ExploreBtn.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: .5s;
+}
+
+.silde-2 p {
+  padding-left: 30px;
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #224259;
+}
+
+/* footer-section */
+.knock-us {
+  background: #5693BF;
+  border-radius: 48px 0px 0px 0px;
+  padding: 104px 0;
+  color: #fff;
+}
+
+.footer-btn {
+  width: 72px;
+  height: 72px;
+  border: 2px solid #224259;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px #224259;
+  position: relative;
+  left: 486px;
+  top: -161px;
+}
+
+.contect-text {
+  padding-top: 104px;
+}
+
+.contect-text h4 {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.contect-text p {
+  font-family: 'SF UI Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.footer-email {
+  width: 400px;
+  height: 72px;
+  border: 1px solid #FFFFFF;
+  border-radius: 12px;
+  color: #FFFFFF;
+  margin: 80px 0 80px 80px;
+
+}
+
+.social-icon {
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+
+.social-icon a {
+  padding-left: 30px;
+}
