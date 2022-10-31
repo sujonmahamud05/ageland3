@@ -1,3 +1,7 @@
+body {
+  background: #F2F9FF;
+}
+
 img {
   max-width: 100%;
 }
@@ -8,12 +12,8 @@ img {
 
 /* header-section */
 .nav-section {
-  position: fixed;
-  width: 100%;
-  overflow: hidden;
-  border-radius: 20px;
-  background-color: #FFFFFF;
-  opacity: 0.9;
+  padding-top: 40px;
+
 }
 
 .manu {
@@ -46,7 +46,7 @@ img {
 
 /* banner */
 #banner {
-  padding: 72px 0 160px 0;
+  padding: 86px;
 }
 
 .brand-text {
@@ -161,7 +161,7 @@ img {
 }
 
 .get-started {
-  box-shadow: 10px 10px #000;
+  box-shadow: 10px 10px #224259;
   width: 211px;
   height: 72px;
   padding: 20px 32px;
@@ -246,11 +246,13 @@ img {
 }
 
 .box-1 {
+  max-width: 355px;
+  margin: 0 auto;
   box-sizing: border-box;
   background: #FFFFFF;
   border-radius: 24px;
   color: #224259;
-  padding: 46px;
+  padding: 86px 0 48px 0;
   box-shadow: 10px 10px;
   position: relative;
 
@@ -258,7 +260,8 @@ img {
 
 .icon-img {
   position: absolute;
-  top: -40px;
+  top: -38px;
+  left: 34px;
 
 }
 
@@ -289,9 +292,9 @@ img {
   border: 2px solid #224259;
   border-radius: 12px;
   background-color: #FFFFFF;
-  box-shadow: 10px 10px #000;
+  box-shadow: 10px 10px #224259;
   position: absolute;
-  right: 704px;
+  right: 707px;
   margin-top: 70px;
   text-decoration: none;
   color: #224259;
@@ -443,6 +446,8 @@ img {
 }
 
 .get-img {
+  position: relative;
+  left: 33px;
   padding: 0;
   margin: 0;
 }
@@ -551,16 +556,11 @@ img {
   border: 2px solid #224259;
   border-radius: 12px;
   background-color: #FFFFFF;
-  box-shadow: 10px 10px;
+  box-shadow: 10px 10px #224259;
   margin-left: 24px;
   position: relative;
   left: 518px;
   bottom: 78px;
-}
-
-
-.coustomer-img img {
-  height: 551px;
 }
 
 /* why-choose-section */
@@ -642,7 +642,7 @@ img {
   border-radius: 12px;
   padding: 20px 32px;
   background-color: #FFFFFF;
-  box-shadow: 10px 10px;
+  box-shadow: 10px 10px #224259;
   text-decoration: none;
 }
 
@@ -767,11 +767,9 @@ img {
 .footer-email {
   width: 400px;
   height: 72px;
-  border: 1px solid #FFFFFF;
   border-radius: 12px;
-  color: #FFFFFF;
   margin: 80px 0 80px 80px;
-
+  opacity: .2;
 }
 
 .social-icon {
