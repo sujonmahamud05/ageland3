@@ -767,7 +767,7 @@ img {
   margin: 80px 0 80px;
   opacity: .2;
   background: transparent;
-  border: 1px solid #fff;
+  border: 2px solid #fff;
 }
 
 .social-icon {
@@ -778,8 +778,4 @@ img {
 .social-icon img {
   padding-left: 32px;
   padding-bottom: 124px;
-}
-
-.social-icon a {
-  padding-left: 30px;
 }
